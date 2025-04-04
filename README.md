@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tran Ty Go
 
-**💼 Role**: Frontend Developer | Full-stack Engineer
+**💼 Role**: Frontend Developer | Full-stack Engineer  
 **🌍 Location**: Ho Chi Minh city, Vietnam
 
 ## 🛠 Core Skills  
@@ -10,3 +10,4 @@
 ## 📩 Contact  
 - Email: gott150899@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ty-go-tran-644666248/
+- Portfolio: https://gott150899-portfolio-v2.vercel.app/
